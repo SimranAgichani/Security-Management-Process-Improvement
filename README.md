@@ -6,14 +6,14 @@ Enhancing data management procedures will boost productivity and decrease data b
 
 System Description :
 The new system will be an automated data management system that replaces many of the present manual processes. The following process will be present :
-implementing security protocols
- Regular backups
- regular  training sessions for the employees about phishing.
- Using Updated Anti virus softwares which will protect from virus.
+ Implementing security protocols,
+ Regular backups,
+ Regular  training sessions for the employees about phishing,
+ Using Updated Antivirus software that will protect from viruses.
 
 Requirements :
-The system must be able to accurately track data transmission  in real-time
+The system must be able to accurately track data transmission  in real-time.
 The system must have the ability to automatically recover the data.
-accountable for keeping data up to date and managing the inventory
-The system must be user friendly easy to operate
+The system must be accountable for keeping data up to date and managing the inventory.
+The system must be user-friendly and easy to operate.
 The system must protect delicate inventory data and be secure.
